@@ -1,0 +1,2 @@
+# .github
+Manifold github defaults
