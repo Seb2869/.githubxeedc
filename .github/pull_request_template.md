@@ -13,9 +13,9 @@ https://linear.app/manifoldxyz/issue/UPDATE-THIS-PART
 
 ## Self-Review
 <!-- Ensure you have done the following before requesting a review: -->
-- [ ]  Review diff with main branch from Cursor
-- [ ]  Description provides context for the changes
-- [ ]  Tests are included for the PR (required on server changes)
+- [ ] Review and comment PR file changes
+- [ ] Description provides context for the changes
+- [ ] Tests are included for the PR (required on server changes)
 
 
 ## CR Notes
